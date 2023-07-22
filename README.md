@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zadvajr
 - 👀 I’m interested in core software engineering projects and associated technologies 
-- 🌱 I’m currently a student of software engineering programme with @alx_africa
-- 💞️ I’m looking to collaborate on any engineering project that will enable me utilize my skills effectively
+- 🌱 I’m currently a student in a software engineering program with @alx_africa
+- 💞️ I’m looking to collaborate on any engineering project that will enable me to utilize my skills effectively
 - 📫 How to reach me danielzadva@gmail.com
 
 <!---
