@@ -12,7 +12,7 @@ I'm a Software Engineer, Content Creator, and Community Engineer who currently w
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Reactjs, and Python.
 - 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://zadvajr.github.io/web-based-resume/) and contact me by emailing [danielzadva@gmail.com](mailto:danielzadva@gmail.com).
+- 📫 You can [view my resume](https://zadvajr.github.io/web-based-resume/) and you can [Email me](mailto:danielzadva@gmail.com).
 
 ---
 
