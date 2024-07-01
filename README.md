@@ -14,13 +14,18 @@ I'm a Software Engineer, Experienced Web Developer 🌐 | Skilled Python Develop
 - 💼 Job interests: Software Engineer, Back Engineer, or Python Developer (Intern or Junior level).
 - 📫 You can view my [resume here](https://zadvajr.github.io/web-based-resume/) and [Email me here](mailto:danielzadva@gmail.com).
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+
+ [![John's github stats](https://bad-apple-github-readme.vercel.app/api?username=johnmwendwa&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+
 ---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=zadvajr&show_icons=true&include_all_commits=true&hide_border=true" alt="zadvajr's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zadvajr&langs_count=8&layout=compact&hide_border=true" alt="zadvajr's GitHub stats" /> |
 | ------------- | ------------- |
 [![Daniel Zadva, Jnr.'s current streak](https://streak-stats.demolab.com/?user=zadvajr&count_private=true&theme=white-blue&title_color=blue)](#)
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=johnmwendwa&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
