@@ -1,5 +1,3 @@
-![Header]([https://link_to_your_image.com](https://avatars.githubusercontent.com/u/130802141?s=400&u=3f05868d79cf2456545b9ffca2d0cd55fa6af980&v=4))
-
 # Hi, I'm Daniel Zadva, Jnr. 👋
 
 I'm a Backend Python Web Developer. I enjoy working on various web technologies and building efficient backend systems.
