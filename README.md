@@ -22,6 +22,5 @@ I'm a Software Engineer, Experienced Web Developer 🌐 | Skilled Python Develop
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=zadvajr&show_icons=true&include_all_commits=true&hide_border=true" alt="zadvajr's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zadvajr&langs_count=8&layout=compact&hide_border=true" alt="zadvajr's GitHub stats" /> |
 | ------------- | ------------- |
 | <div align="center"><a href="#"><img align="center" src="https://streak-stats.demolab.com/?user=zadvajr&count_private=true&theme=white-blue&title_color=blue" alt="Daniel Zadva, Jnr.'s current streak" /></a></div> |
-| ------------- |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
