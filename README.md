@@ -15,7 +15,7 @@ I'm a Software Engineer, Experienced Web Developer 🌐 | Skilled Python Develop
 - 📫 You can view my [resume here](https://zadvajr.github.io/web-based-resume/) and [Email me here](mailto:danielzadva@gmail.com).
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,django,fastapi,sqlite,mongodb,postgresql,firebase,md,git,github,vscode,styledcomponents,postman,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,django,fastapi,sqlite,mongodb,postgresql,firebase,md,git,github,vscode,stackoverflow&perline=13)](#)
 
 ---
 
