@@ -8,8 +8,8 @@ I'm a Software Engineer, Experienced Web Developer 🌐 | Skilled Python Develop
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Reactjs, and Python.
+- 💡 Fun fact: I'm studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
+- 🌱 I’m learning HTML, CSS, JavaScript, Reactjs, and Python.
 - 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Back Engineer, or Python Developer (Intern or Junior level).
 - 📫 You can view my [resume here](https://zadvajr.github.io/web-based-resume/) and [Email me here](mailto:danielzadva@gmail.com).
@@ -22,6 +22,5 @@ I'm a Software Engineer, Experienced Web Developer 🌐 | Skilled Python Develop
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=zadvajr&show_icons=true&include_all_commits=true&hide_border=true" alt="zadvajr's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zadvajr&langs_count=8&layout=compact&hide_border=true" alt="zadvajr's GitHub stats" /> |
 | ------------- | ------------- |
 [![Daniel Zadva, Jnr.'s current streak](https://streak-stats.demolab.com/?user=zadvajr&count_private=true&theme=white-blue&title_color=blue)](#)
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
