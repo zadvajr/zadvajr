@@ -24,3 +24,49 @@ I'm a Software Engineer, Experienced Web Developer 🌐 | Skilled Python Develop
 | ![Daniel Zadva, Jnr.'s current streak](https://streak-stats.demolab.com/?user=zadvajr&count_private=true&theme=white-blue&title_color=blue)  |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+
+
+![Header](https://link_to_your_image.com)
+
+# Hi, I'm [Your Name] 👋
+
+I'm a [Your Profession/Interest]. I enjoy working on [Your Interests].
+
+### Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+### GitHub Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=zadvajr&show_icons=true&include_all_commits=true&hide_border=true" alt="zadvajr's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zadvajr&langs_count=8&layout=compact&hide_border=true" alt="zadvajr's GitHub stats" /> |
+| ------------- | ------------- |
+| <div align="center"><a href="#"><img align="center" src="https://streak-stats.demolab.com/?user=zadvajr&count_private=true&theme=white-blue&title_color=blue" alt="Daniel Zadva, Jnr.'s current streak" /></a></div> |
+
+### Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/zadvajr/repo/pull/1) in `zadvajr/repo`
+2. 💪 Opened PR [#2](https://github.com/zadvajr/repo/pull/2) in `zadvajr/repo`
+3. ❗️ Closed issue [#3](https://github.com/zadvajr/repo/issues/3) in `zadvajr/repo`
+<!--END_SECTION:activity-->
+
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+
+### Projects
+
+- [Project 1](https://github.com/zadvajr/project1) - Brief description of Project 1.
+- [Project 2](https://github.com/zadvajr/project2) - Brief description of Project 2.
+
+### Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Post 1](https://yourblog.com/post1)
+- [Post 2](https://yourblog.com/post2)
+<!-- BLOG-POST-LIST:END -->
