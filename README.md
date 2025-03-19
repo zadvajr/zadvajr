@@ -11,7 +11,7 @@ I'm a Python Backend Developer 🐍 | Strong expertise in building RESTful APIs 
 - 💡 Fun fact: I'm studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
 - 🌱 I’m learning HTML, CSS, JavaScript, Reactjs, and Python.
 - 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Back Engineer, or Python Developer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Back Engineer, or Python Developer (Entry or Junior level).
 - 📫 You can view my [resume here](https://zadvajr.github.io/web-based-resume/) and [Email me here](mailto:danielzadva@gmail.com).
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
