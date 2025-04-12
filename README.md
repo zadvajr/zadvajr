@@ -1,7 +1,7 @@
 # Hi, there! 👋🏾
 Welcome to my GitHub profile!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-zadva-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/zadva/)](https://www.linkedin.com/in/zadva/) [![X Badge](https://img.shields.io/badge/-zadva-000000?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/zad_va)](https://x.com/zad_va)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-zadva-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zadva/) [![X Badge](https://img.shields.io/badge/-zadva-000000?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/zad_va)](https://x.com/zad_va)
 
 I'm a Python Backend Developer 🐍 | Strong expertise in building RESTful APIs with FastAPI and Django 💻 | Skilled in managing databases like MongoDB, MySQL, and PostgreSQL  | Passionate about transforming ideas into functional and scalable solutions ☕ | Open to exciting opportunities. Let's innovate and build!
 
